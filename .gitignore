@@ -24,3 +24,6 @@ yarn-error.log*
 
 # secrets
 backend/secrets.js
+
+#vs code
+.vscode/
